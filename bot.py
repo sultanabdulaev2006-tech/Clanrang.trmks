@@ -57,12 +57,12 @@ ACCOUNTS = [
     {"email": "cpmcpmking43@gmail.com", "password": "666666"},
     {"email": "cpmcpmking44@gmail.com", "password": "666666"},
     {"email": "cpmcpmking45@gmail.com", "password": "666666"},
-    {"email": "cpmcpmking46@gmail.com", "password": "666666"},
-    {"email": "cpmcpmking47@gmail.com", "password": "666666"},
-    {"email": "cpmcpmking48@gmail.com", "password": "666666"},
-    {"email": "cpmcpmking49@gmail.com", "password": "666666"},
-    {"email": "cpmcpmking50@gmail.com", "password": "666666"},
-    {"email": "cpmcpmking51@gmail.com", "password": "666666"},
+    {"email": "cpmcpmking466@gmail.com", "password": "666666"},
+    {"email": "cpmcpmking477@gmail.com", "password": "666666"},
+    {"email": "cpmcpmking488@gmail.com", "password": "666666"},
+    {"email": "cpmcpmking499@gmail.com", "password": "666666"},
+    {"email": "cpmcpmking500@gmail.com", "password": "666666"},
+    {"email": "cpmcpmking511@gmail.com", "password": "666666"},
    
     
     {"email": "den_isaev_95@mail.ru", "password": "Zaebali1995"},
